@@ -1,0 +1,70 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.72932",
+   "Default View_TopLeft":"127,-49",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port FIXED_IO_0 -pg 1 -lvl 6 -x 1420 -y 140 -defaultsOSRD
+preplace port DDR_0 -pg 1 -lvl 6 -x 1420 -y 160 -defaultsOSRD
+preplace inst cg_fpga_0 -pg 1 -lvl 1 -x 110 -y 220 -defaultsOSRD
+preplace inst adpt_in_0 -pg 1 -lvl 2 -x 360 -y 410 -defaultsOSRD
+preplace inst adpt_out_0 -pg 1 -lvl 5 -x 1270 -y 270 -defaultsOSRD
+preplace inst xor2_0 -pg 1 -lvl 3 -x 660 -y 840 -defaultsOSRD
+preplace inst xor2_1 -pg 1 -lvl 3 -x 660 -y 960 -defaultsOSRD
+preplace inst xor2_2 -pg 1 -lvl 3 -x 660 -y 720 -defaultsOSRD
+preplace inst xor2_3 -pg 1 -lvl 3 -x 660 -y 600 -defaultsOSRD
+preplace inst xor2_4 -pg 1 -lvl 3 -x 660 -y 480 -defaultsOSRD
+preplace inst xor2_5 -pg 1 -lvl 3 -x 660 -y 360 -defaultsOSRD
+preplace inst xor2_6 -pg 1 -lvl 3 -x 660 -y 240 -defaultsOSRD
+preplace inst xor2_7 -pg 1 -lvl 3 -x 660 -y 120 -defaultsOSRD
+preplace inst m7482_0 -pg 1 -lvl 4 -x 930 -y 870 -defaultsOSRD
+preplace inst m7482_1 -pg 1 -lvl 4 -x 930 -y 690 -defaultsOSRD
+preplace inst m7482_2 -pg 1 -lvl 4 -x 930 -y 510 -defaultsOSRD
+preplace inst m7482_3 -pg 1 -lvl 4 -x 930 -y 330 -defaultsOSRD
+preplace netloc adpt_in_0_A0 1 2 2 510J 1030 750
+preplace netloc adpt_in_0_A1 1 2 2 500J 10 750
+preplace netloc adpt_in_0_A2 1 2 2 510J 20 770
+preplace netloc adpt_in_0_A3 1 2 2 520J 30 760
+preplace netloc adpt_in_0_A4 1 2 2 460J -10 830
+preplace netloc adpt_in_0_A5 1 2 2 470J 0 820
+preplace netloc adpt_in_0_A6 1 2 2 480J 40 810
+preplace netloc adpt_in_0_A7 1 2 2 490J 50 800
+preplace netloc adpt_in_0_B0 1 2 1 460 550n
+preplace netloc adpt_in_0_B1 1 2 1 470 530n
+preplace netloc adpt_in_0_B2 1 2 1 530 510n
+preplace netloc adpt_in_0_B3 1 2 1 540 490n
+preplace netloc adpt_in_0_B4 1 2 1 N 470
+preplace netloc adpt_in_0_B5 1 2 1 590 350n
+preplace netloc adpt_in_0_B6 1 2 1 540 230n
+preplace netloc adpt_in_0_B7 1 2 1 530 110n
+preplace netloc adpt_in_0_K 1 2 2 580 1040 800
+preplace netloc adpt_out_0_led 1 0 6 -30 -40 NJ -40 NJ -40 NJ -40 N -40 1380
+preplace netloc m7482_0_C2 1 3 2 840 970 1020
+preplace netloc m7482_0_SUM1 1 4 1 1100 330n
+preplace netloc m7482_0_SUM2 1 4 1 1090 310n
+preplace netloc m7482_1_C2 1 3 2 820 980 1060
+preplace netloc m7482_1_SUM1 1 4 1 1080 290n
+preplace netloc m7482_1_SUM2 1 4 1 1070 270n
+preplace netloc m7482_2_C2 1 3 2 840 230 1020
+preplace netloc m7482_2_SUM1 1 4 1 1060 250n
+preplace netloc m7482_2_SUM2 1 4 1 1050 230n
+preplace netloc m7482_3_C2 1 4 1 N 350
+preplace netloc m7482_3_SUM1 1 4 1 1040 210n
+preplace netloc m7482_3_SUM2 1 4 1 1030 190n
+preplace netloc xor2_0_y 1 3 1 730 840n
+preplace netloc xor2_1_y 1 3 1 780 890n
+preplace netloc xor2_2_y 1 3 1 730 710n
+preplace netloc xor2_3_y 1 3 1 730 600n
+preplace netloc xor2_4_y 1 3 1 730 480n
+preplace netloc xor2_5_y 1 3 1 740 360n
+preplace netloc xor2_6_y 1 3 1 780 240n
+preplace netloc xor2_7_y 1 3 1 790 120n
+preplace netloc cg_fpga_0_gpio_sw_1 1 1 1 250 260n
+preplace netloc cg_fpga_0_DDR 1 1 5 260J -20 NJ -20 N -20 N -20 1390
+preplace netloc cg_fpga_0_FIXED_IO 1 1 5 250J -30 NJ -30 N -30 N -30 1400
+levelinfo -pg 1 -50 110 360 660 930 1270 1420
+pagesize -pg 1 -db -bbox -sgen -50 -470 2090 1250
+"
+}
+0
